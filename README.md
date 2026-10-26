@@ -1,2 +1,9 @@
 # skill-market
 技能商店
+
+## 技能清单
+1.skill-travel-checklist
+    根据当天的天气情况，出门携带物品清单助手。
+2.skill-stock-trader
+    根据当天的市场走势，总结分析市场交易助手。
+3.
