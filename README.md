@@ -5,12 +5,13 @@
 
 ### skill-travel-checklist
     - 根据当天的天气情况，出门携带物品清单助手。
-    
+    - 案例：今天出门需要带什么？
 ### skill-stock-trader
     - 根据当天的市场走势，总结分析市场交易助手。
-    
-### 
+    - 案例：今日股票市场各大指数分析，xx股票的后市行情及其板块评估
+### skill-code-count
+    - 项目代码量化统计。
+    - 案例：帮我量化统计代码，代码位置D:\WorkSpace\PycharmProjects\demo
 
 ## 技能验证说明
-
-技能已在WorkBuddy安装做过初步验证。
+    - 以上技能已在WorkBuddy安装做过初步验证。

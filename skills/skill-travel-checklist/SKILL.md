@@ -1,6 +1,14 @@
 ---
 name: skill-travel-checklist
+version: 1.0.0
+display_name: 出门清单助手
+display_name_en: Travel checklist assist
 description: 生成出门清单。当用户询问“出门要带什么/要准备什么/今天外出需要带哪些东西”时使用
+description_zh: 出门清单助手。
+description_en: Travel checklist assist.
+author: 花狸
+category: tool
+agent_created: true
 ---
 
 #目标
