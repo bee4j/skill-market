@@ -1,7 +1,13 @@
 ---
 name: skill-template
-description: >-
-   Use when tests have race conditions, timing dependencies, or pass/fail inconsistently
+version: 1.0.0
+display_name: 你的技能中文名
+display_name_en: Your Skill English Name
+description: 一句话描述技能用途和触发词
+description_zh: 简短中文介绍
+description_en: A brief English introduction.
+author: 你的名字或团队名
+category: tool
 ---
 
 # 技能名称

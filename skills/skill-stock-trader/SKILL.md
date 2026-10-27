@@ -1,6 +1,13 @@
 ---
 name: skill-stock-trader
+version: 1.0.0
+display_name: 收盘总结
+display_name_en: Market close summary
 description: 分析中国 A 股大盘、行业板块与个股走势，输出带具体价位的交易策略（买入价、止盈价、止损价、仓位）。当用户询问大盘行情/大盘走势/股票行情/股票走势/股票K线图/股票持仓止盈止损策略/该不该买卖/帮我做个交易计划时使用。
+description_zh: 分析中国 A 股大盘、行业板块与个股走势。
+description_en: Analyze the overall trend of China’s A-share market, industry sectors, and individual stocks.
+author: 花狸
+category: tool
 agent_created: true
 ---
 
