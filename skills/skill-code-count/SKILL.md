@@ -1,10 +1,10 @@
 ---
 name: skill-code-count
-version: 1.1.0
+version: 1.0.0
 display_name: 项目量化助手
 display_name_en: Code row count
 description: 统计 Git 项目的代码行数，支持按总量、按作者、按语言量化，自动排除依赖/构建目录。Use when 用户询问“代码行数/代码量化/项目代码量/项目代码行数/统计代码/代码贡献/各作者贡献”。
-description_zh: 项目代码量化统计。
+description_zh: Git 项目代码量化统计。
 description_en: Project code row count.
 author: 花狸
 category: tool
