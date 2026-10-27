@@ -12,6 +12,12 @@
 ### skill-code-count
     - 项目代码量化统计。
     - 案例：帮我量化统计代码，代码位置D:\WorkSpace\PycharmProjects\demo
+### skill-project-scaffolding-java
+    - 微服务项目代码库按照标准模版初始化。
+    - 案例：帮我初始化Java微服务项目，要求条件是：
+### skill-project-scaffolding-python
+    - 项目代码库按照标准模版初始化。
+    - 案例：帮我初始化Python项目，要求条件是：
 
 ## 技能验证说明
     - 以上技能已在WorkBuddy安装做过初步验证。
